@@ -2,7 +2,7 @@
 
 ## Description
 
-Using Javascript to create a password generator using the conditions set by the user.
+Creating a quiz using Javascript that checks how many answers are correct and tells the user their score at the end.
 
 ## Credits
 
